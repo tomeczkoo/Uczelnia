@@ -1,0 +1,6 @@
+C:\Users\Tomeczkoo\Documents\SharpDevelop Projects\Oczelnia 1.0\Oczelnia 1.0\bin\Debug\Oczelnia 1.0.exe.config
+C:\Users\Tomeczkoo\Documents\SharpDevelop Projects\Oczelnia 1.0\Oczelnia 1.0\bin\Debug\Oczelnia 1.0.exe
+C:\Users\Tomeczkoo\Documents\SharpDevelop Projects\Oczelnia 1.0\Oczelnia 1.0\bin\Debug\Oczelnia 1.0.pdb
+C:\Users\Tomeczkoo\Documents\SharpDevelop Projects\Oczelnia 1.0\Oczelnia 1.0\obj\Debug\Oczelnia 1.0.csprojResolveAssemblyReference.cache
+C:\Users\Tomeczkoo\Documents\SharpDevelop Projects\Oczelnia 1.0\Oczelnia 1.0\obj\Debug\Oczelnia 1.0.exe
+C:\Users\Tomeczkoo\Documents\SharpDevelop Projects\Oczelnia 1.0\Oczelnia 1.0\obj\Debug\Oczelnia 1.0.pdb
